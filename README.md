@@ -1,5 +1,6 @@
-# [Maksim Varakin / LuckySmouk]
-**Senior Python Engineer | Data & AI Integration**
+# Maksim Varakin
+**Python Engineer | Data & AI Integration**
+
 📍 Saint-Petersburg, Russia | 🌐 [buntart.men](https://buntart.men) | ✉️ [Telegram](https://t.me/BuntArt)
 
 ---
@@ -9,22 +10,21 @@ Software engineer with over 13 years of experience in IT. My core focus is on ba
 
 ## Professional Focus
 
-**AI & LLM Integration**
+### AI & LLM Integration
 * Developing applications with hybrid LLM architectures, combining local models (Llama 3, Mixtral, Qwen, DeepSeek) with cloud APIs (OpenAI, Claude).
 * Optimizing inference latency using vLLM and GGUF quantization; balancing workloads across CPU and GPU nodes.
 * Building RAG systems (ChromaDB, FAISS) with embedding caching and developing custom MCP servers for multi-step agent tasks.
 
-**Backend & Business Automation**
+### Backend & Business Automation
 * Implementing business process automation via REST/gRPC APIs (e-commerce platforms like Ozon, Avito).
 * Developing automated content pipelines, including cross-posting with AI-driven content moderation (Stable Diffusion XL + OpenCV).
 * Building anti-bot parsing solutions using Selenium and Playwright (browser profile warming, delay randomization, CAPTCHA solving).
 
-**Data Engineering**
+### Data Engineering
 * Designing ETL pipelines and data processing tools using Python, SQL, and vector databases.
 * Handling complex JSON schemas and outlines for efficient data transformation and validation workflows.
 
 ## Technology Stack
-
 * **Languages:** Python 3.9+ (asyncio), Bash, PowerShell, SQL.
 * **Backend & Web:** FastAPI, Flask, Pydantic, Requests, httpx, aiohttp.
 * **AI & Data:** LangChain, transformers, ollama, vLLM, llama.cpp, OpenCV, pandas, docling, ChromaDB, FAISS, uv.
@@ -38,5 +38,5 @@ Alongside software development, I have extensive experience in IT infrastructure
 ## Contact
 * **Website:** [buntart.men](https://buntart.men)
 * **Telegram:** [@BuntArt](https://t.me/BuntArt)
-* **Email:** [gmail](spantmacwar@gmail.com)
+* **Email:** spantmacwar@gmail.com
 * **Work format:** Remote, full-time schedule, or project-based collaboration.
