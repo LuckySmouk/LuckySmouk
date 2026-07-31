@@ -1,92 +1,42 @@
-# 👋 Hi, I'm LuckySmouk
-
-## 💼 Senior Fullstack Developer & Data Engineer
-
-**📍 Saint-Petersburg, Russia**  
-**🌐 [buntart.men](https://buntart.men)**  
-**💬 [Telegram](https://t.me/BuntArt)**
+# [Maksim Varakin / LuckySmouk]
+**Senior Python Engineer | Data & AI Integration**
+📍 Saint-Petersburg, Russia | 🌐 [buntart.men](https://buntart.men) | ✉️ [Telegram](https://t.me/BuntArt)
 
 ---
 
-## 🚀 Professional Summary
+## About
+Software engineer with over 13 years of experience in IT. My core focus is on backend development, data engineering, and integrating Large Language Models (LLMs) into production systems. I design and implement solutions at the intersection of API integrations, data processing, and hybrid AI architectures.
 
-Experienced software engineer with **13+ years** in IT, specializing in **Python development**, **data engineering**, and **automation solutions**. I build robust systems that solve real business problems through intelligent integration of modern technologies, from backend services to AI-powered applications.
+## Professional Focus
 
-I excel at transforming complex business requirements into efficient technical solutions, with particular expertise in:
-- **ETL pipelines** and data processing systems
-- **Telegram bot development** with AI/LLM capabilities
-- **API integrations** and microservices architecture
-- **Business process automation** and optimization
-- **System administration** and infrastructure management
+**AI & LLM Integration**
+* Developing applications with hybrid LLM architectures, combining local models (Llama 3, Mixtral, Qwen, DeepSeek) with cloud APIs (OpenAI, Claude).
+* Optimizing inference latency using vLLM and GGUF quantization; balancing workloads across CPU and GPU nodes.
+* Building RAG systems (ChromaDB, FAISS) with embedding caching and developing custom MCP servers for multi-step agent tasks.
 
----
+**Backend & Business Automation**
+* Implementing business process automation via REST/gRPC APIs (e-commerce platforms like Ozon, Avito).
+* Developing automated content pipelines, including cross-posting with AI-driven content moderation (Stable Diffusion XL + OpenCV).
+* Building anti-bot parsing solutions using Selenium and Playwright (browser profile warming, delay randomization, CAPTCHA solving).
 
-## 💻 Technical Skills
+**Data Engineering**
+* Designing ETL pipelines and data processing tools using Python, SQL, and vector databases.
+* Handling complex JSON schemas and outlines for efficient data transformation and validation workflows.
 
-### **Languages & Frameworks**
-`Python 3.9+` `FastAPI` `Flask` `asyncio` `Bash` `PowerShell`
+## Technology Stack
 
-### **Data Engineering & Analytics**
-`pandas` `numpy` `SQL` `PostgreSQL` `SQLite` `ChromaDB` `Airflow` `ETL`
+* **Languages:** Python 3.9+ (asyncio), Bash, PowerShell, SQL.
+* **Backend & Web:** FastAPI, Flask, Pydantic, Requests, httpx, aiohttp.
+* **AI & Data:** LangChain, transformers, ollama, vLLM, llama.cpp, OpenCV, pandas, docling, ChromaDB, FAISS, uv.
+* **Automation & Parsing:** Selenium, Playwright, Scrapy, BeautifulSoup.
+* **Infrastructure & DevOps:** Docker, Linux (Ubuntu), CI/CD (GitHub/GitLab), Proxmox, VMware.
+* **Networking & SysAdmin:** MikroTik, Cisco, WireGuard, OpenVPN, Netbird, Active Directory, DNS/DHCP, Asterisk.
 
-### **Web & Automation**
-`Selenium` `Playwright` `Scrapy` `Requests` `httpx` `aiohttp` `BeautifulSoup`
+## Infrastructure & System Administration
+Alongside software development, I have extensive experience in IT infrastructure management. This includes administering server platforms (Windows Server, Linux), managing virtualization (VMware, Hyper-V, Proxmox), and maintaining network services. I have experience coordinating technical teams, writing technical documentation, and mentoring junior engineers in automation and RAG architectures.
 
-### **AI & Machine Learning**
-`LangChain` `transformers` `ollama` `RAG` `NLP` `OpenCV` `PyTorch`
-
-### **Infrastructure & DevOps**
-`Docker` `Linux/Ubuntu` `Git` `GitHub Actions` `Proxmox` `VMware` `MikroTik` `REST/gRPC`
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 Telegram Bot for Video Analytics
-**LLM-powered analytics bot** that processes video statistics databases and answers user queries using ChromaDB vector database and Ollama. Allows natural language interaction with complex data.
-
-### 📧 Email Verification Telegram Bot
-**Automated email validation system** that checks email lists and sends verified contacts to private Telegram groups. Features robust error handling and asynchronous processing.
-
-### 📱 Telegram WebApp Container Catalog
-**Interactive product catalog** built as a Telegram WebApp container. Provides seamless user experience within Telegram ecosystem with modern UI/UX principles.
-
-### 📊 JSON Schema Processing Tool
-**Data processing utility** for handling complex JSON schemas and outlines. Designed for efficient data transformation and validation workflows.
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckySmouk&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckySmouk&layout=compact&theme=dark)](https://github.com/LuckySmouk)
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **full-time positions**, **part-time roles**, and **project-based work** in:
-- **Backend Development** (Python-focused)
-- **Data Engineering & Analytics**
-- **DevOps & Infrastructure**
-- **AI/ML Integration Projects**
-- **Business Process Automation**
-
-**Preferred work arrangements:** Remote, full-time schedule, or project-based collaboration.
-
----
-
-## 📬 Contact
-
-- **Telegram:** [@BuntArt](https://t.me/BuntArt)
-- **Website:** [buntart.men](https://buntart.men)
-- **Email:** Available upon request
-- **Location:** Saint-Petersburg, Russia
-
----
-
-> *"The best way to predict the future is to implement it."* - David Heinemeier Hansson
-
-⭐ **Star my repositories if you find them useful!**  
-🤝 **Open to collaboration on interesting projects**
+## Contact
+* **Website:** [buntart.men](https://buntart.men)
+* **Telegram:** [@BuntArt](https://t.me/BuntArt)
+* **Email:** [gmail](spantmacwar@gmail.com)
+* **Work format:** Remote, full-time schedule, or project-based collaboration.
