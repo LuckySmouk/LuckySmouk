@@ -25,8 +25,8 @@ Software engineer with 13+ years in IT. I build systems at the intersection of A
 - Content pipelines with AI-driven moderation: Stable Diffusion XL + OpenCV
 
 ### Backend & automation
-- FastAPI, Flask, Pydantic, asyncio, httpx, aiohttp
-- Business process automation via REST/gRPC (Ozon, Avito)
+- REST/gRPC services and integrations: FastAPI, Flask, Pydantic, asyncio, httpx, aiohttp
+- Business process automation for e-commerce platforms (Ozon, Avito)
 - Anti-bot parsing: Selenium, Playwright — profile warming, delay randomization, CAPTCHA solving
 
 ### Data engineering
@@ -39,25 +39,24 @@ Software engineer with 13+ years in IT. I build systems at the intersection of A
 - Sensors, automation, real-time detection
 
 ### Infrastructure & networking
-- Docker, various Unix-like systems, Windows Server
+- Systems, containers & virtualization: Unix-like systems, Windows Server, Docker, Proxmox, VMware, Hyper-V
+- Networking & VPN: MikroTik, Cisco, WireGuard, OpenVPN, Netbird
+- Core infrastructure services: Active Directory, DNS/DHCP, Nginx
 - CI/CD: GitHub, GitLab
-- Virtualization: Proxmox, VMware, Hyper-V
-- Networking: MikroTik, Cisco, WireGuard, OpenVPN, Netbird
-- Services: Active Directory, DNS/DHCP, Asterisk
 
 ## Stack
 
 **Languages** — Python 3.9+ (asyncio), Bash, PowerShell, SQL  
 **Backend** — FastAPI, Flask, Pydantic, httpx, aiohttp  
-**AI / ML** — LangChain, transformers, vLLM, llama.cpp, ollama, OpenCV, docling  
-**Data** — pandas, Polars, ChromaDB, FAISS, DuckDB, PostgreSQL, MySQL  
-**Parsing** — Selenium, Playwright, Scrapy, BeautifulSoup  
-**Infra** — Docker, Linux, Windows Server, Proxmox, VMware  
-**Networking** — MikroTik, Cisco, WireGuard, OpenVPN, Netbird, AD, DNS/DHCP
-
-## Beyond code
-
-Coordination of technical teams, technical documentation, mentoring junior engineers in automation and RAG architectures.
+**AI & LLM** — LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, vLLM, llama.cpp, Ollama, Transformers, PEFT, Unsloth  
+**Computer vision** — YOLO (Ultralytics), OpenCV, Stable Diffusion XL  
+**Data** — pandas, Polars, DuckDB, PostgreSQL, MySQL, ChromaDB, FAISS  
+**Parsing** — Scrapy, Playwright, Selenium, BeautifulSoup, lxml, docling  
+**Interfaces** — Gradio, Streamlit, Flet, Jinja2/HTMX  
+**Testing** — Pytest, pytest-asyncio, Hypothesis, Scapy  
+**Embedded** — Arduino, ESP, Raspberry Pi, PySerial  
+**Infrastructure** — Docker, Unix-like systems, Windows Server, Proxmox, VMware, Hyper-V, Nginx, CI/CD (GitHub, GitLab)  
+**Networking & services** — MikroTik, Cisco, WireGuard, OpenVPN, Netbird, Active Directory, DNS/DHCP
 
 ## Contact
 
