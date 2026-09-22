@@ -1,42 +1,64 @@
 # Maksim Varakin
-**Python Engineer | Data & AI Integration**
 
-📍 Saint-Petersburg, Russia | 🌐 [buntart.men](https://buntart.men) | ✉️ [Telegram](https://t.me/BuntArt)
+**AI & Automation Engineer** — LLM systems, data pipelines, embedded systems
+
+📍 Saint-Petersburg, Russia · 🌐 [buntart.men](https://buntart.men) · ✉️ [@BuntArt](https://t.me/BuntArt)
 
 ---
 
 ## About
-Software engineer with over 13 years of experience in IT. My core focus is on backend development, data engineering, and integrating Large Language Models (LLMs) into production systems. I design and implement solutions at the intersection of API integrations, data processing, and hybrid AI architectures.
 
-## Professional Focus
+Software engineer with 13+ years in IT. I build systems at the intersection of AI, data, and automation — from LLM-powered pipelines and MCP servers to backend services, data pipelines, and embedded devices.
 
-### AI & LLM Integration
-* Developing applications with hybrid LLM architectures, combining local models (Llama 3, Mixtral, Qwen, DeepSeek) with cloud APIs (OpenAI, Claude).
-* Optimizing inference latency using vLLM and GGUF quantization; balancing workloads across CPU and GPU nodes.
-* Building RAG systems (ChromaDB, FAISS) with embedding caching and developing custom MCP servers for multi-step agent tasks.
+## Focus areas
 
-### Backend & Business Automation
-* Implementing business process automation via REST/gRPC APIs (e-commerce platforms like Ozon, Avito).
-* Developing automated content pipelines, including cross-posting with AI-driven content moderation (Stable Diffusion XL + OpenCV).
-* Building anti-bot parsing solutions using Selenium and Playwright (browser profile warming, delay randomization, CAPTCHA solving).
+### AI & LLM
+- Hybrid architectures: local models (Llama 3, Mixtral, Qwen, DeepSeek) combined with cloud APIs (OpenAI, Claude)
+- Inference optimization: vLLM, CPU/GPU workload balancing
+- RAG: ChromaDB, FAISS, embedding caching
+- MCP servers and custom harness systems
+- Fine-tuning small models: Transformers, PEFT, Unsloth
+- Synthetic datasets: LLM-generated question-answer pairs from raw data
 
-### Data Engineering
-* Designing ETL pipelines and data processing tools using Python, SQL, and vector databases.
-* Handling complex JSON schemas and outlines for efficient data transformation and validation workflows.
+### Computer vision
+- Object detection on video: YOLO, OpenCV
+- Content pipelines with AI-driven moderation: Stable Diffusion XL + OpenCV
 
-## Technology Stack
-* **Languages:** Python 3.9+ (asyncio), Bash, PowerShell, SQL.
-* **Backend & Web:** FastAPI, Flask, Pydantic, Requests, httpx, aiohttp.
-* **AI & Data:** LangChain, transformers, ollama, vLLM, llama.cpp, OpenCV, pandas, docling, ChromaDB, FAISS, uv.
-* **Automation & Parsing:** Selenium, Playwright, Scrapy, BeautifulSoup.
-* **Infrastructure & DevOps:** Docker, Linux (Ubuntu), CI/CD (GitHub/GitLab), Proxmox, VMware.
-* **Networking & SysAdmin:** MikroTik, Cisco, WireGuard, OpenVPN, Netbird, Active Directory, DNS/DHCP, Asterisk.
+### Backend & automation
+- FastAPI, Flask, Pydantic, asyncio, httpx, aiohttp
+- Business process automation via REST/gRPC (Ozon, Avito)
+- Anti-bot parsing: Selenium, Playwright — profile warming, delay randomization, CAPTCHA solving
 
-## Infrastructure & System Administration
-Alongside software development, I have extensive experience in IT infrastructure management. This includes administering server platforms (Windows Server, Linux), managing virtualization (VMware, Hyper-V, Proxmox), and maintaining network services. I have experience coordinating technical teams, writing technical documentation, and mentoring junior engineers in automation and RAG architectures.
+### Data engineering
+- ETL pipelines: Python, SQL, vector databases
+- JSON schema validation and structured transformation
+- Dataset tooling: Scrapy, BeautifulSoup, pandas, Polars
+
+### Embedded systems
+- Microcontrollers: Arduino, ESP, Raspberry Pi
+- Sensors, automation, real-time detection
+
+### Infrastructure & networking
+- Docker, various Unix-like systems, Windows Server
+- CI/CD: GitHub, GitLab
+- Virtualization: Proxmox, VMware, Hyper-V
+- Networking: MikroTik, Cisco, WireGuard, OpenVPN, Netbird
+- Services: Active Directory, DNS/DHCP, Asterisk
+
+## Stack
+
+**Languages** — Python 3.9+ (asyncio), Bash, PowerShell, SQL  
+**Backend** — FastAPI, Flask, Pydantic, httpx, aiohttp  
+**AI / ML** — LangChain, transformers, vLLM, llama.cpp, ollama, OpenCV, docling  
+**Data** — pandas, Polars, ChromaDB, FAISS, DuckDB, PostgreSQL, MySQL  
+**Parsing** — Selenium, Playwright, Scrapy, BeautifulSoup  
+**Infra** — Docker, Linux, Windows Server, Proxmox, VMware  
+**Networking** — MikroTik, Cisco, WireGuard, OpenVPN, Netbird, AD, DNS/DHCP
+
+## Beyond code
+
+Coordination of technical teams, technical documentation, mentoring junior engineers in automation and RAG architectures.
 
 ## Contact
-* **Website:** [buntart.men](https://buntart.men)
-* **Telegram:** [@BuntArt](https://t.me/BuntArt)
-* **Email:** spantmacwar@gmail.com
-* **Work format:** Remote, full-time schedule, or project-based collaboration.
+
+[Telegram](https://t.me/BuntArt) · [buntart.men](https://buntart.men) · spantmacwar@gmail.com
